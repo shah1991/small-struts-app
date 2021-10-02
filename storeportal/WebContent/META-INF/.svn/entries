@@ -1,0 +1,40 @@
+8
+
+dir
+4775
+http://kalos.dairy-farm.com.sg:18080/svn/websystems/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/META-INF
+http://kalos.dairy-farm.com.sg:18080/svn/websystems
+
+
+
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+
+svn:special svn:externals svn:needs-lock
+
+context.xml
+file
+
+
+
+
+2014-04-04T06:44:29.620000Z
+81331f06ab9313e606745d6b3a25b91b
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+MANIFEST.MF
+file
+
+
+
+
+2011-12-19T01:53:48.000000Z
+b10f37c8bb1803d98c127a01d1a71cc5
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+

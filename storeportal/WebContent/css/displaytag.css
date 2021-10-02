@@ -1,0 +1,109 @@
+
+.dataTable {
+     width:100%;
+     background-color: #C4E1FF;
+     background-image: url(../images/box-bg.gif) repeat-x left top #f4f4f4 ;
+	 font-size: 14px;
+}
+
+.dataTable th {
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #eef7ff;
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: left top;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	white-space: nowrap;
+	background: url(../images/bg_top.gif);
+}
+
+.dataTable  td {
+    padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	white-space: nowrap;
+}
+
+.dataTable tr.total td {
+     white-space: nowrap;
+     vertical-align: top;
+     font-weight: bold;
+}
+
+.dataTable tr.total td.customer {
+     visibility: hidden;
+}
+
+.dataTable td.hidden {
+     display: none;
+}
+
+.dataTable th.hidden {
+     display: none;
+}
+
+.dataTable th.r {
+     text-align: right;
+     padding-right: 10px;
+}
+
+.dataTable th.c {
+     text-align: center;
+}
+
+.dataTable td.r {
+     text-align: right;
+     padding-right: 10px;
+}
+
+.dataTable td.c {
+     text-align: center;
+}
+
+.dataTable  tr.odd {
+     background-color: #f4f4f4;
+}
+
+.dataTable tr.even {
+     background-color: #d2d2d2;
+}
+
+.dataTable th a   ,.dataTable th a:visited {
+     text-align: left;
+     color: white;
+}
+
+.dataTable th a:hover {
+     color: #ffcc00;
+     background-color: transparent;
+}
+
+.dataTable .order1 {
+     background-position: right;
+     background-image: url(../images/arrow_up.gif);
+     background-repeat: no-repeat;
+}
+
+.dataTable .order2 {
+     background-position: right;
+     background-image: url(../images/arrow_down.gif);
+     background-repeat: no-repeat;
+}
+
+.pagelinks {
+     color: #999999;
+     margin: 2px;
+}
+
+.pagelinks img {
+     vertical-align: middle;
+}

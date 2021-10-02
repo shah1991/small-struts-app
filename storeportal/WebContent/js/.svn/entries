@@ -1,0 +1,76 @@
+8
+
+dir
+4775
+http://kalos.dairy-farm.com.sg:18080/svn/websystems/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/js
+http://kalos.dairy-farm.com.sg:18080/svn/websystems
+
+
+
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+
+svn:special svn:externals svn:needs-lock
+
+menu.js
+file
+
+
+
+
+2011-12-22T11:23:40.000000Z
+9fd7458734b8b764768e266b8521d060
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+common.js
+file
+
+
+
+
+2011-12-24T20:56:26.000000Z
+2ddd82d092fc57656eb4ac8e2d1fc539
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+validate.js
+file
+
+
+
+
+2012-05-20T07:55:30.000000Z
+bec0adb25e20928e54eb5948dc5f0afa
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+checktree.js
+file
+
+
+
+
+2012-08-21T00:25:22.000000Z
+b9f82f4f2272e8d778bc9af80f37a425
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+jquery-1.3.2.min.js
+file
+
+
+
+
+2012-09-13T21:12:18.000000Z
+bb381e2d19d8eace86b34d20759491a5
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+

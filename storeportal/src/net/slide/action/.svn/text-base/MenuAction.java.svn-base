@@ -1,0 +1,26 @@
+package net.slide.action;
+
+import com.opensymphony.xwork2.ActionContext;
+import com.opensymphony.xwork2.ActionSupport;
+
+@SuppressWarnings("serial")
+public class MenuAction extends ActionSupport {
+
+	private String method;
+
+	@Override
+	public String execute() throws Exception {
+		if(getMethod().endsWith("logout")){
+			ActionContext.getContext().getSession().clear();
+		}
+		return getMethod();
+	}
+
+	public String getMethod() {
+		return method;
+	}
+
+	public void setMethod(String method) {
+		this.method = method;
+	}
+}

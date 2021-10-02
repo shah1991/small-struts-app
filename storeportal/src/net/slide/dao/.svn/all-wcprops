@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao
+END
+DeptDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/DeptDao.java
+END
+FileGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/FileGroupDao.java
+END
+StoreDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/StoreDao.java
+END
+LinkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/LinkDao.java
+END
+TopicDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/TopicDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/UserDao.java
+END
+FileShareDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/FileShareDao.java
+END
+GradeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/GradeDao.java
+END
+TaskDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/TaskDao.java
+END
+PostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/PostDao.java
+END
+ChklstDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/ChklstDao.java
+END
+TaskPostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/TaskPostDao.java
+END
+PassHistoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/PassHistoryDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/net/slide/dao/BaseDao.java
+END

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.bytecode.use_reflection_optimizer">false</property>
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.password">postgres</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/storeportal711</property>        
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+        <property name="hibernate.search.autoregister_listeners">false</property>
+        <property name="hibernate.show_sql">false</property>
+		        
+		<mapping class="net.slide.pojo.TblChklstTopic"/>
+		<mapping class="net.slide.pojo.TblChklstStoreDetail"/>
+		<mapping class="net.slide.pojo.TblStore"/>
+		<mapping class="net.slide.pojo.TblTaskStore"/>
+		<mapping class="net.slide.pojo.TblTask"/>
+		<mapping class="net.slide.pojo.TblUserGrpDtl"/>
+		<mapping class="net.slide.pojo.TblPost"/>
+		<mapping class="net.slide.pojo.TblPostTopic"/>
+		<mapping class="net.slide.pojo.TblArea"/>
+		<mapping class="net.slide.pojo.TblRole"/>
+		<mapping class="net.slide.pojo.TblChklstStore"/>
+		<mapping class="net.slide.pojo.TblChklstTemplate"/>
+		<mapping class="net.slide.pojo.TblChklstGroup"/>
+		<mapping class="net.slide.pojo.TblTaskPortfolio"/>
+		<mapping class="net.slide.pojo.TblDept"/>
+		<mapping class="net.slide.pojo.TblPostForum"/>
+		<mapping class="net.slide.pojo.TblChklstAreaDetail"/>
+		<mapping class="net.slide.pojo.TblBanner"/>
+		<mapping class="net.slide.pojo.TblTaskArea"/>
+		<mapping class="net.slide.pojo.TblChklstDetail"/>
+		<mapping class="net.slide.pojo.TblChklstArea"/>
+		<mapping class="net.slide.pojo.TblPostArea"/>
+		<mapping class="net.slide.pojo.TblSystxno"/>
+		<mapping class="net.slide.pojo.TblChklst"/>
+		<mapping class="net.slide.pojo.TblPostStore"/>
+		<mapping class="net.slide.pojo.TblUserGrp"/>
+		<mapping class="net.slide.pojo.TblUser"/>
+		<mapping class="net.slide.pojo.TblLink"/>
+		<mapping class="net.slide.pojo.TblGrade"/>
+		<mapping class="net.slide.pojo.TblFileGroup"/>
+		<mapping class="net.slide.pojo.TblFileShare"/>
+		<mapping class="net.slide.pojo.TblPostUpload"/>
+		<mapping class="net.slide.pojo.TblTaskUpload"/>
+		<mapping class="net.slide.pojo.TblTaskResponse"/>
+		<mapping class="net.slide.pojo.TblTaskResponseArea"/>
+		<mapping class="net.slide.pojo.TblPassHistory"/>  
+  
+    </session-factory>
+</hibernate-configuration>

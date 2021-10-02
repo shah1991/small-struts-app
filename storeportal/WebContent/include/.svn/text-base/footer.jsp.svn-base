@@ -1,0 +1,1 @@
+<div class="footer">Copyright &copy; 2011, Cold Storage Supermarket. All Right Reserved.</div>

@@ -1,0 +1,64 @@
+8
+
+dir
+4775
+http://kalos.dairy-farm.com.sg:18080/svn/websystems/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent
+http://kalos.dairy-farm.com.sg:18080/svn/websystems
+
+
+
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+
+svn:special svn:externals svn:needs-lock
+
+pages
+dir
+
+test
+dir
+
+META-INF
+dir
+
+index.jsp
+file
+6323
+
+
+
+2015-10-02T06:23:53.543883Z
+3e28d7a89cd25623c60125ab41ef1eb7
+2016-09-14T03:44:36.811725Z
+6323
+tkouriya
+
+include
+dir
+
+styles
+dir
+
+swfupload
+dir
+
+images
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+icons
+dir
+
+activity
+dir
+
+js
+dir
+

@@ -1,0 +1,444 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <constant name="struts.action.extension" value="do"/> 
+    <constant name="struts.multipart.maxSize" value="52428800" />
+                                                     
+	<package name="default" extends="struts-default, json-default">
+	
+		<interceptors>
+ 		<interceptor-stack name="appDefault">
+        	 <interceptor-ref name="defaultStack">
+      			<param name="exception.logEnabled">true</param>
+      			<param name="exception.logLevel">ERROR</param>
+   			</interceptor-ref>
+ 	    </interceptor-stack>
+		</interceptors>
+		
+		<default-interceptor-ref name="appDefault" />
+				
+		<global-results>
+  		  <result name="sessionerror">/index.jsp</result>
+  	    </global-results>
+  		
+  		<global-exception-mappings>
+	        <exception-mapping exception="net.slide.exception.SessionExpiredException" result="sessionerror" />
+	    </global-exception-mappings>
+	
+	
+		<!-- Login Process -->
+		<action name="Login_*" method="{1}" class="net.slide.action.LoginAction">
+			<result name="input">/index.jsp</result>
+			<result name="admin">/pages/main.jsp</result>
+			<result name="success">/pages/home.jsp</result>
+			<!-- SSO Changes :: START -->
+			<!--
+			<result name="chgPwd">/pages/chgpwd.jsp</result>
+			<result name="forceChgPwd">/pages/forcechgpwd.jsp</result>
+			-->
+			<!-- SSO Changes :: END -->
+			
+		</action>
+
+
+		<action name="AjaxCall" class="net.slide.action.AjaxAction">
+			<result  type="json" />
+		</action>	
+
+
+		<!-- User Main PAge Process -->
+		<action name="UserMain_*" method="{1}" class="net.slide.action.UserMainAction">
+			<result name="input">/pages/usermain.jsp</result>
+			<result name="success">/pages/usermain.jsp</result>
+		</action>
+
+		<!-- User Detail Page Process -->
+		<action name="UserDetail_*" method="{1}" class="net.slide.action.UserDetailAction">
+			<result name="input">/pages/userdetail.jsp</result>
+			<result name="success" type="redirect">UserMain_search.do</result>
+			<result name="userchgPwd">pages/userchgpwd.jsp</result>
+			<result name="userdetailchgPwd">pages/userdetailchgpwd.jsp</result>
+			<result name="userview">pages/userview.jsp</result>
+			<result name="userhome" type="redirect">Login_home.do</result>
+			<result name="view" type="redirect">UserDetail_view.do?id=%{id}</result>
+			<result name="login" type="redirect">Login_login.do</result>
+			<result name="forceChgPwd">/pages/forcechgpwd.jsp</result>
+			
+		</action>
+
+
+		<!-- Role Main Page Process -->
+		<action name="RoleMain_*" method="{1}" class="net.slide.action.RoleMainAction">
+			<!-- SSO Changes :: START -->
+			<!-- 
+			<result name="input">/pages/rolemain.jsp</result>
+			<result name="success" type="redirect">RoleMain_search.do</result>
+			 -->
+			<!-- SSO Changes :: END -->
+		</action>
+
+		<!-- Role Detail Page Process -->
+		<action name="RoleDetail_*" method="{1}" class="net.slide.action.RoleDetailAction">
+			<!-- SSO Changes :: START -->
+			<!-- 
+			<result name="input">/pages/roledetail.jsp</result>
+			<result name="success" type="redirect">RoleMain_search.do</result>
+			 -->
+			<!-- SSO Changes :: END -->
+		</action>
+
+
+		<!-- Store Maintenance Process -->
+		<action name="StoreMain_*" method="{1}" class="net.slide.action.StoreMainAction">
+			<result name="input">/pages/storemain.jsp</result>
+			<result name="success">/pages/storemain.jsp</result>
+		</action>
+		
+		<action name="StoreDetail_*" method="{1}" class="net.slide.action.StoreDetailAction">
+			<result name="input">/pages/storedetail.jsp</result>
+			<result name="success" type="redirect">StoreMain_search.do</result>
+		</action> 
+		
+		<!-- Area Maintenance Process -->
+		<action name="AreaMain_*" method="{1}" class="net.slide.action.AreaMainAction">
+			<result name="input">/pages/areamain.jsp</result>
+			<result name="success">/pages/areamain.jsp</result>
+		</action>
+		
+		<action name="AreaDetail_*" method="{1}" class="net.slide.action.AreaDetailAction">
+			<result name="input">/pages/areadetail.jsp</result>
+			<result name="success" type="redirect">AreaMain_search.do</result>
+		</action> 
+		
+
+		<!-- Department Maintenance Process -->
+		<action name="Department_*" method="{1}" class="net.slide.action.DepartmentAction">
+			<result name="input">/pages/deptmain.jsp</result>
+			<result name="detail">/pages/deptdetail.jsp</result>
+			<result name="success" type="redirect">Department_search.do</result>
+			
+		</action>
+
+		<!-- Forum Maintenance Process -->
+		<action name="ForumMain_*" method="{1}" class="net.slide.action.ForumMainAction">
+			<result name="input">/pages/forum.jsp</result>
+			<result name="success" type="redirect">ForumMain_search.do</result>
+			<result name="detail">/pages/forumdetail.jsp</result>
+			<result name="home">/pages/home.jsp</result>
+		</action>
+		
+		<action name="ForumDetail_*" method="{1}" class="net.slide.action.ForumDetailAction">
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+		
+		<action name="TaskMain_*" method="{1}" class="net.slide.action.TaskMainAction">
+			<result name="input">/pages/task.jsp</result>
+			<result name="success" type="redirect">TaskMain_search.do</result>
+			<result name="detail">/pages/taskdetail.jsp</result>
+			<result name="home">/pages/home.jsp</result>
+		</action>
+		
+		<action name="TaskDetail_*" method="{1}" class="net.slide.action.TaskDetailAction">
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+		
+		<action name="TopicMain_*" method="{1}" class="net.slide.action.TopicMainAction">
+			<result name="input">/pages/topic.jsp</result>
+			<result name="success" type="redirect">TopicMain_search.do</result>
+			<result name="detail">/pages/topicdetail.jsp</result>
+		</action>
+		
+			
+		<action name="TopicDetail_*" method="{1}" class="net.slide.action.TopicDetailAction">
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+
+
+		<action name="PostMain_*" method="{1}" class="net.slide.action.PostMainAction">
+			<result name="input">/pages/forumpost.jsp</result>
+			<result name="success" type="redirect">PostMain_search.do</result>
+			<result name="detail">/pages/forumpostdetail.jsp</result>
+			<result name="topic">/pages/forumusertopic.jsp</result>
+			<result name="postyear">/pages/forumuseryear.jsp</result>
+			<result name="postmonth">/pages/forumusermonth.jsp</result>
+			<result name="postweek">/pages/forumuserweek.jsp</result>
+			<result name="post">/pages/forumuserpost.jsp</result>
+			<result name="managehq">/pages/forummanagehq.jsp</result>
+			<result name="manageuser">/pages/forummanagestore.jsp</result>
+			<result name="managearea">/pages/forummanagearea.jsp</result>
+			<result name="storepending">/pages/storepending.jsp</result>
+			<result name="areapending">/pages/forumareapending.jsp</result>
+                        <result name="accessdeny">/pages/accessdeny.jsp</result>
+			<result name="entrystore" type="redirect">PostMain_store.do</result>
+			<result name="entryhq" type="redirect">PostMain_hq.do</result>
+			<result name="entryarea" type="redirect">PostMain_areapending.do</result>
+		</action>
+		
+		<action name="PostDetail_*" method="{1}" class="net.slide.action.PostDetailAction">
+			<interceptor-ref name="appDefault">
+	            <param name="fileUpload.maximumSize">52428800</param>
+	        </interceptor-ref>
+			<result name="input">/pages/forumpostdetail.jsp</result>
+			<result name="success" type="redirect">PostMain_entry.do</result>
+			<result name="view">/pages/forumpostview.jsp</result>
+			<result name="storepopup">/pages/forumstore.jsp</result>
+			<result name="storelist">/pages/forumstorelist.jsp</result>
+			<result name="areapopup">/pages/forumarea.jsp</result>
+			<result name="managehq" type="redirect">PostMain_hq.do</result>
+			<result name="managearea" type="redirect">PostMain_area.do</result>
+			<result name="manageuser" type="redirect">PostMain_store.do</result>
+			<result name="areacreate">/pages/forumareapost.jsp</result>
+		
+		
+		</action>
+		
+		
+		
+			
+		<action name="TaskPostMain_*" method="{1}" class="net.slide.action.TaskPostMainAction">
+			<result name="input"  type="redirect">TaskPostMain_entry.do</result>
+			<result name="success" type="redirect">TaskPostMain_search.do</result>
+			<result name="detail">/pages/taskpostdetail.jsp</result>
+			<result name="topic">/pages/taskusertopic.jsp</result>
+			<result name="postyear">/pages/taskuseryear.jsp</result>
+			<result name="postmonth">/pages/taskusermonth.jsp</result>
+			<result name="postweek">/pages/taskuserweek.jsp</result>
+			<result name="post">/pages/taskuserpost.jsp</result>
+			<result name="managehq">/pages/managetask.jsp</result>
+			<result name="area">/pages/taskarearesponse.jsp</result>
+			<result name="store">/pages/taskstoreresponse.jsp</result>
+			<result name="manageuser">/pages/manageusertask.jsp</result>
+			<result name="managearea">/pages/manageareatask.jsp</result>
+			<result name="hqcomplete">/pages/hqcomplete.jsp</result>
+			<result name="storecomplete">/pages/storecompletetask.jsp</result>
+			<result name="storefail">/pages/storefailtask.jsp</result>
+			<result name="areacomplete">/pages/areacompletetask.jsp</result>
+			<result name="areafail">/pages/areafailtask.jsp</result>
+			<result name="areapending">/pages/areapendingtask.jsp</result>
+			<result name="entrystore" type="redirect">TaskPostMain_storetask.do</result>
+			<result name="entryhq" type="redirect">TaskPostMain_hqtask.do</result>
+			<result name="entryarea" type="redirect">TaskPostMain_areapending.do</result>
+			<result name="hqfail">/pages/hqfailedtask.jsp</result>
+			
+		</action>
+		
+		<action name="TaskPostDetail_*" method="{1}" class="net.slide.action.TaskPostDetailAction">
+			<interceptor-ref name="appDefault">
+	            <param name="fileUpload.maximumSize">52428800</param>
+	        </interceptor-ref>
+			<result name="input">/pages/taskpostdetail.jsp</result>
+			<result name="success" type="redirect">TaskPostMain_search.do</result>
+			<result name="view">/pages/taskpostview.jsp</result>
+			<result name="storepopup">/pages/taskstore.jsp</result>
+			<result name="storelist">/pages/taskstorelist.jsp</result>
+			<result name="areapopup">/pages/taskarea.jsp</result>
+			<result name="adminview">/pages/admintaskview.jsp</result>
+			<result name="areaview">/pages/taskareaview.jsp</result>
+			<result name="storeview">/pages/taskstoreview.jsp</result>
+			<result name="manage" type="redirect">TaskPostMain_hqtask.do</result>
+			<result name="managearea" type="redirect">TaskPostMain_areapending.do</result>
+			<result name="manageuser" type="redirect">TaskPostMain_storetask.do</result>
+			<result name="areacreate">/pages/areacreatetask.jsp</result>
+			<result name="manageareatask" type="redirect">TaskPostMain_areatask.do</result>
+			
+		</action>
+		
+		<!-- Check List Maintenance Process -->
+		<action name="ChklstGroup_*" method="{1}" class="net.slide.action.ChklstGroupAction">
+			<result name="input">/pages/chklstgroup.jsp</result>
+			<result name="success" type="redirect">ChklstGroup_search.do</result>
+			<result name="detail">/pages/chklstgroupdetail.jsp</result>
+			<result name="home">/pages/home.jsp</result>
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+
+		<!-- Check List Maintenance Process -->
+		<action name="ChklstTopic_*" method="{1}" class="net.slide.action.ChklstTopicAction">
+			<result name="input">/pages/chklsttopic.jsp</result>
+			<result name="success" type="redirect">ChklstTopic_search.do</result>
+			<result name="detail">/pages/chklsttopicdetail.jsp</result>
+			<result name="home">/pages/home.jsp</result>
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+		
+		<action name="ChklstPostDetail_*" method="{1}" class="net.slide.action.ChklstPostDetailAction">
+			<interceptor-ref name="appDefault">
+	            <param name="fileUpload.maximumSize">52428800</param>
+	        </interceptor-ref>
+			<result name="input">/pages/chklstpostdetail.jsp</result>
+			<result name="storepopup">/pages/chklststore.jsp</result>
+			<result name="areapopup">/pages/chklstarea.jsp</result>
+			<result name="area">/pages/chklstareapostdetail.jsp</result>
+			<result name="areastorepopup">/pages/chklstareastore.jsp</result>
+			<result name="view">/pages/chklstpostview.jsp</result>
+			<result name="managearea" type="redirect">ChklstPostMain_areachklst.do</result>
+			<result name="manageuser" type="redirect">ChklstPostMain_storechklst.do</result>
+			<result name="manage" type="redirect">ChklstPostMain_hqchklst.do</result>
+			<result name="adminview">/pages/chklstadminview.jsp</result>
+			<result name="areaview">/pages/chklstareaview.jsp</result>
+			<result name="storeview">/pages/chklststoreview.jsp</result>
+			<result name="temppopup">/pages/chklsttemp.jsp</result>
+			<result name="areatemppopup">/pages/chklstareatemp.jsp</result>
+			<result name="areapending" type="redirect">ChklstPostMain_areapending.do</result>
+			<result name="smview">/pages/chklstsmview.jsp</result>
+	    	<result name="responseam">/pages/chklstpostareaview.jsp</result>
+	    	<result name="responsesm">/pages/chklstresponsesm.jsp</result>
+	    	<result name="arearemark">/pages/chklstarearemark.jsp</result>
+	    	<result name="choosestore" >/pages/chklstchoosestore.jsp</result>
+	    	<result name="storeareaview">/pages/chklststoreareaview.jsp</result>
+	    	<result name="schklst" type="redirect">ChklstPostMain_directstore.do</result>
+	    	<result name="achklst" type="redirect">ChklstPostMain_areastorepending.do</result>
+	  	</action>
+		
+		<action name="ChklstPostMain_*" method="{1}" class="net.slide.action.ChklstPostMainAction">
+			<result name="input" type="redirect">ChklstPostMain_entry.do</result>
+			<result name="postyear">/pages/chklstuseryear.jsp</result>
+			<result name="postmonth">/pages/chklstusermonth.jsp</result>
+			<result name="postweek">/pages/chklstuserweek.jsp</result>
+			<result name="post">/pages/chklstuserpost.jsp</result>
+			<result name="managehq">/pages/chklstmanagehq.jsp</result>
+			<result name="area">/pages/chklstarearesponse.jsp</result>
+			<result name="store">/pages/chklststoreresponse.jsp</result>
+			<result name="manageuser">/pages/chklstmanagestore.jsp</result>
+			<result name="managearea">/pages/chklstmanagearea.jsp</result>
+			<result name="hqcomplete">/pages/chklsthqcomplete.jsp</result>
+			<result name="storecomplete">/pages/chklststorecomplete.jsp</result>
+			<result name="storefail">/pages/chklststorefail.jsp</result>
+			<result name="areacomplete">/pages/chklstareacomplete.jsp</result>
+			<result name="areafail">/pages/chklstareafail.jsp</result>
+			<result name="areapending">/pages/chklstareapending.jsp</result>
+			<result name="entrystore" type="redirect">ChklstPostMain_directstore.do</result>
+			<result name="entryhq" type="redirect">ChklstPostMain_hqchklst.do</result>
+			<result name="entryarea" type="redirect">ChklstPostMain_areapending.do</result>
+			<result name="topic">/pages/chklstusertopic.jsp</result>
+			<result name="selectstore">/pages/chklstselectstore.jsp</result>
+			<result name="storeforarea">/pages/chklststoreforarea.jsp</result>
+			<result name="choosestore">/pages/chklstchoosestore.jsp</result>
+			<result name="choosearea">/pages/chklstchoosearea.jsp</result>
+			<result name="choosestorefail">/pages/choosestorefail.jsp</result>
+			<result name="hqfail">/pages/chklsthqfail.jsp</result>
+			<result name="areastorepending">/pages/chklstareastorepending.jsp</result>
+			<result name="chooseareastore">/pages/chklstchooseareastore.jsp</result>
+			<result name="directstore">/pages/chklstdirectstore.jsp</result>
+		
+			
+		</action>
+		
+		
+		<action name="HomeLinks_*" method="{1}" class="net.slide.action.HomeLinkAction">
+			<interceptor-ref name="appDefault">
+	            <param name="fileUpload.maximumSize">52428800</param>
+	        </interceptor-ref>
+			<result name="input">/pages/homelink.jsp</result>
+			<result name="success" type="redirect">HomeLinks_search.do</result>
+			<result name="detail">/pages/homelinkdetail.jsp</result>		
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+		
+		
+		<action name="ChklstTemplate_*" method="{1}" class="net.slide.action.ChklstTemplateAction">
+			<result name="input">/pages/chklsttemplate.jsp</result>
+			<result name="success" type="redirect">ChklstTemplate_search.do</result>
+			<result name="detail">/pages/chklsttemplatedetail.jsp</result>
+			<result name="home">/pages/home.jsp</result>
+			<result name="edit">/pages/chklstedittemp.jsp</result>
+			<result name="headercreate">/pages/chklsttempdetail.jsp	</result>
+			<result name="header">/pages/chklsttemphead.jsp</result>
+			<result type="stream">
+                <param name="contentType">text/html</param>
+                <param name="inputName">inputStream</param>
+			</result> 
+		</action>
+		<action name="Menu"  class="net.slide.action.MenuAction">
+			<result name="logout">/index.jsp </result>
+			<result name="home">/pages/main.jsp </result>
+			<result name="user">/UserMain_search.do</result>
+			<result name="chgpwd">/pages/chgpwd.jsp </result>
+			
+		</action>
+		<!-- Grade Maintenance Process -->
+		<action name="GradeMain_*" method="{1}" class="net.slide.action.GradeMainAction">
+			<result name="input">/pages/grademain.jsp</result>
+			<result name="success">/pages/grademain.jsp</result>
+			<result name="add">/pages/gradedetail.jsp</result>
+			<result name="edit">/pages/gradedetail.jsp</result>
+			
+		</action>
+		
+	
+			<!--FileGroup Maintenance Process -->
+		<action name="FileGroup_*" method="{1}" class="net.slide.action.FileGroupAction">
+			<result name="input">/pages/filegroup.jsp</result>
+			<result name="success">/pages/filegroup.jsp</result>
+			<result name="add">/pages/filegroupdetail.jsp</result>
+			<result name="edit">/pages/filegroupdetail.jsp</result>
+			
+		</action>
+		<action name="FilePostDetail_*" method="{1}" class="net.slide.action.FilePostDetailAction">
+			<interceptor-ref name="appDefault">
+	            <param name="fileUpload.maximumSize">52428800</param>
+	        </interceptor-ref>
+			<result name="input">/pages/filepostdetail.jsp</result>
+			<result name="managehq" type="redirect">FilePostMain_hq.do</result>
+			<result name="managearea" type="redirect">FilePostMain_areapending.do</result>
+		</action>
+		
+		<action name="FilePostMain_*" method="{1}" class="net.slide.action.FilePostMainAction">
+			<result name="input" type="redirect">FilePostMain_entry.do</result>
+			<result name="managehq">/pages/filehqdate.jsp</result>
+			<result name="area">/pages/fileareapending.jsp</result>
+			<result name="store">/pages/filestoreresponse.jsp</result>
+		
+			<result name="managestore">/pages/filemanagestore.jsp</result> 
+			<result name="managearea">/pages/filemanagearea.jsp</result>
+			<result name="hqcomplete">/pages/filehqcomplete.jsp</result>
+			<result name="storecomplete">/pages/filestorecomplete.jsp</result>
+			<result name="storefail">/pages/filestorefail.jsp</result>
+			<result name="areacomplete">/pages/fileareacomplete.jsp</result>
+			<result name="areafail">/pages/fileareafail.jsp</result>
+			<result name="areapending">/pages/fileareapending.jsp</result>
+			<result name="entrystore" type="redirect">FilePostMain_storeuser.do</result>
+			<result name="entryhq" type="redirect">FilePostMain_hq.do</result>
+			<result name="entryarea" type="redirect">FilePostMain_areapending.do</result>
+			<result name="hqfail">/pages/filehqfailed.jsp</result>
+			<result name="postyear">/pages/fileuseryear.jsp</result>
+			<result name="postmonth">/pages/fileusermonth.jsp</result>
+			<result name="postdate">/pages/fileuserdate.jsp</result>
+			<result name="userpost">/pages/filemanagepost.jsp</result>
+			<result name="hqfilepost">/pages/filepost.jsp</result>
+			<result name="storefilepost">/pages/fileuserpost.jsp</result>
+			<result name="postyearstore">/pages/fileuseryearstore.jsp</result>
+			<result name="postmonthstore">/pages/fileusermonthstore.jsp</result>
+			<result name="postdatestore">/pages/fileuserdatestore.jsp</result>	
+			<result name="userpoststore">/pages/filemanagepoststore.jsp</result>
+			<result name="managestoreuser">/pages/filestoredate.jsp</result>
+			
+			<result name="areafilepost">/pages/fileareapost.jsp</result>
+			<result name="userpostarea">/pages/filemanagepostarea.jsp</result>
+			<result name="postyeararea">/pages/fileuseryeararea.jsp</result>
+			<result name="postmontharea">/pages/fileusermontharea.jsp</result>
+			<result name="postdatearea">/pages/fileuserdatearea.jsp</result>	
+
+		</action>
+	</package>
+</struts>

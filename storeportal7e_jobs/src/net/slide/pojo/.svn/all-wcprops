@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo
+END
+TblLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblLink.java
+END
+TblTaskPortfolio.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTaskPortfolio.java
+END
+TblRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblRole.java
+END
+TblTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTask.java
+END
+TblFileShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblFileShare.java
+END
+TblChklstAreaDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstAreaDetail.java
+END
+TblChklstGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstGroup.java
+END
+TblTaskUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTaskUpload.java
+END
+TblArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblArea.java
+END
+TblPostArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPostArea.java
+END
+TblLink1.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblLink1.java
+END
+TblTaskStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTaskStore.java
+END
+TblTaskResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTaskResponse.java
+END
+TblPostTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPostTopic.java
+END
+TblSystxno.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblSystxno.java
+END
+TblChklstTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstTopic.java
+END
+TblUserGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblUserGrp.java
+END
+TblChklst.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklst.java
+END
+TblTaskArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTaskArea.java
+END
+TblStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblStore.java
+END
+TblDept.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblDept.java
+END
+TblPostForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPostForum.java
+END
+TblPostStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPostStore.java
+END
+TblBanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblBanner.java
+END
+TblChklstStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstStore.java
+END
+TblUserGrpDtlId.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblUserGrpDtlId.java
+END
+TblTaskResponseArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblTaskResponseArea.java
+END
+TblChklstDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstDetail.java
+END
+TblUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblUser.java
+END
+TblChklstArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstArea.java
+END
+TblGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblGrade.java
+END
+TblChklstTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstTemplate.java
+END
+TblPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPost.java
+END
+TblPassHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPassHistory.java
+END
+TblChklstStoreDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblChklstStoreDetail.java
+END
+TblPostUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblPostUpload.java
+END
+TblUserGrpDtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblUserGrpDtl.java
+END
+TblFileGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/6322/thilagar/storeportal_7e/prod/storeportal711/storeportal7e_jobs/src/net/slide/pojo/TblFileGroup.java
+END

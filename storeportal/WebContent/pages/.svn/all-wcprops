@@ -1,0 +1,959 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/main.jsp
+END
+chklsttemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttemplate.jsp
+END
+taskdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskdetail.jsp
+END
+grademain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/grademain.jsp
+END
+forumareapost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumareapost.jsp
+END
+chklsttopic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttopic.jsp
+END
+forum.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forum.jsp
+END
+chklst.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklst.jsp
+END
+taskarea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskarea.jsp
+END
+forumdetail1908.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumdetail1908.jsp
+END
+chklstareastore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareastore.jsp
+END
+userdetailchgpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userdetailchgpwd.jsp
+END
+chklsttemphead.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttemphead.jsp
+END
+hqcomplete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/hqcomplete.jsp
+END
+topicdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/topicdetail.jsp
+END
+chklstselectstore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstselectstore.jsp
+END
+chklstresponsesm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstresponsesm.jsp
+END
+fileuserdate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuserdate.jsp
+END
+taskuserweek.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskuserweek.jsp
+END
+areamain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/areamain.jsp
+END
+deptdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/deptdetail.jsp
+END
+filegroupdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filegroupdetail.jsp
+END
+chklstarea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstarea.jsp
+END
+accessdeny.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/accessdeny.jsp
+END
+forumarea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumarea.jsp
+END
+chklststoreresponse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststoreresponse.jsp
+END
+fileuserpost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuserpost.jsp
+END
+filepost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filepost.jsp
+END
+taskcreate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskcreate.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/home.jsp
+END
+fileuseryear.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuseryear.jsp
+END
+hqfailedtask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/hqfailedtask.jsp
+END
+storemain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4826/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/storemain.jsp
+END
+forumstorelist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumstorelist.jsp
+END
+fileusermonthstore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileusermonthstore.jsp
+END
+tasktopic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/tasktopic.jsp
+END
+userdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userdetail.jsp
+END
+forumuserweek.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumuserweek.jsp
+END
+chklstareastorepending.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websystems/!svn/ver/4826/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareastorepending.jsp
+END
+chklstuserweek.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstuserweek.jsp
+END
+taskpostview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskpostview.jsp
+END
+gradedetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/gradedetail.jsp
+END
+fileuserdatearea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuserdatearea.jsp
+END
+chklstareatemp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareatemp.jsp
+END
+chklstareacomplete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/4826/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareacomplete.jsp
+END
+fileareapost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileareapost.jsp
+END
+chklstarearemark.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstarearemark.jsp
+END
+chklstgroupdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstgroupdetail.jsp
+END
+forumpostview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumpostview.jsp
+END
+chklstpostview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstpostview.jsp
+END
+forummanagearea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forummanagearea.jsp
+END
+filestoredate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filestoredate.jsp
+END
+chklstmanagearea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4826/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstmanagearea.jsp
+END
+forcechgpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forcechgpwd.jsp
+END
+forumusermonth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumusermonth.jsp
+END
+chklstusermonth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstusermonth.jsp
+END
+taskstoreresponse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskstoreresponse.jsp
+END
+chklstdirectstore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstdirectstore.jsp
+END
+forumstore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumstore.jsp
+END
+chklststore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststore.jsp
+END
+chklstchoosestore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstchoosestore.jsp
+END
+taskpost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskpost.jsp
+END
+managetask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/managetask.jsp
+END
+taskstorelist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskstorelist.jsp
+END
+chklstareafail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4826/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareafail.jsp
+END
+chklstsmview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstsmview.jsp
+END
+fileusermonth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileusermonth.jsp
+END
+chklstusertopic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstusertopic.jsp
+END
+forumusertopic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumusertopic.jsp
+END
+taskareaview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskareaview.jsp
+END
+chklststorecomplete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststorecomplete.jsp
+END
+chklstpost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstpost.jsp
+END
+areapendingtask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/areapendingtask.jsp
+END
+deptmain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/deptmain.jsp
+END
+filemanagestore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagestore.jsp
+END
+taskusermonth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskusermonth.jsp
+END
+filepostdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filepostdetail.jsp
+END
+chklstareaview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareaview.jsp
+END
+fileusermontharea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileusermontharea.jsp
+END
+taskstore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskstore.jsp
+END
+filefoldermain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filefoldermain.jsp
+END
+chklstpostdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstpostdetail.jsp
+END
+forumpostdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumpostdetail.jsp
+END
+tasktopicdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/tasktopicdetail.jsp
+END
+chklstmanagehq.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstmanagehq.jsp
+END
+forummanagehq.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forummanagehq.jsp
+END
+filegroup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filegroup.jsp
+END
+filemanagepost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagepost.jsp
+END
+chklstchooseareastore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstchooseareastore.jsp
+END
+chklststorefail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststorefail.jsp
+END
+filefolder_hq.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filefolder_hq.jsp
+END
+chklsttemplatedetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttemplatedetail.jsp
+END
+chklstdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstdetail.jsp
+END
+filemanagepoststore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagepoststore.jsp
+END
+forumdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumdetail.jsp
+END
+chklsttemp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttemp.jsp
+END
+chklstmanagestore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstmanagestore.jsp
+END
+forummanagestore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forummanagestore.jsp
+END
+areacompletetask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/areacompletetask.jsp
+END
+roledetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/roledetail.jsp
+END
+filemanagepostarea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagepostarea.jsp
+END
+userdetail_old.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userdetail_old.jsp
+END
+chklstexcelrpt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstexcelrpt.jsp
+END
+chklststoreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststoreview.jsp
+END
+chklsttempdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttempdetail.jsp
+END
+admintaskview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/admintaskview.jsp
+END
+rolemain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/rolemain.jsp
+END
+storecompletetask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/storecompletetask.jsp
+END
+chklsthqcomplete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsthqcomplete.jsp
+END
+userchgpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userchgpwd.jsp
+END
+chklstcreate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstcreate.jsp
+END
+fileareapending.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileareapending.jsp
+END
+areacreatetask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/areacreatetask.jsp
+END
+filemanagepost_1908.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagepost_1908.jsp
+END
+filemanagehq.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagehq.jsp
+END
+chklstedittemp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstedittemp.jsp
+END
+areafailtask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/areafailtask.jsp
+END
+fileuseryeararea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuseryeararea.jsp
+END
+chklststoreareaview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststoreareaview.jsp
+END
+choosestorefail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/choosestorefail.jsp
+END
+areadetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/areadetail.jsp
+END
+userdetail_validation_copy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userdetail_validation_copy.jsp
+END
+chklststoreforarea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklststoreforarea.jsp
+END
+homelink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/homelink.jsp
+END
+taskuserpost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskuserpost.jsp
+END
+taskstoreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskstoreview.jsp
+END
+chklsttopicdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsttopicdetail.jsp
+END
+chklstareapostdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareapostdetail.jsp
+END
+manageusertask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/manageusertask.jsp
+END
+taskarearesponse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskarearesponse.jsp
+END
+storefailtask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/storefailtask.jsp
+END
+fileuseryearstore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuseryearstore.jsp
+END
+chklsthqfail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklsthqfail.jsp
+END
+storedetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/storedetail.jsp
+END
+chklstpostareaview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstpostareaview.jsp
+END
+taskuseryear.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskuseryear.jsp
+END
+forumareapending.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumareapending.jsp
+END
+chklstareapending.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/4826/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstareapending.jsp
+END
+homelinkdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/homelinkdetail.jsp
+END
+fileuserdatestore.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/fileuserdatestore.jsp
+END
+taskpostdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/taskpostdetail.jsp
+END
+userdetail_copy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userdetail_copy.jsp
+END
+chklstadminview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstadminview.jsp
+END
+forumuserpost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumuserpost.jsp
+END
+chklstuserpost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstuserpost.jsp
+END
+filefolderdetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filefolderdetail.jsp
+END
+chklstarearesponse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstarearesponse.jsp
+END
+task.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/task.jsp
+END
+manageareatask.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/manageareatask.jsp
+END
+filemanagestoreuser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filemanagestoreuser.jsp
+END
+chklstgroup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstgroup.jsp
+END
+filehqdate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/filehqdate.jsp
+END
+forumuseryear.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/forumuseryear.jsp
+END
+chklstuseryear.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstuseryear.jsp
+END
+userview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/userview.jsp
+END
+chgpwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chgpwd.jsp
+END
+topic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/topic.jsp
+END
+chklstchoosearea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/chklstchoosearea.jsp
+END
+usermain.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/pages/usermain.jsp
+END

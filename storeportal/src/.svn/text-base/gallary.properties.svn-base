@@ -1,0 +1,4 @@
+MEDIA_IMPORT_PATH = D:/Temporary
+MEDIA_PATH = D:/Temporary/Media
+#MEDIA_IMPORT_PATH = /home/support
+#MEDIA_PATH = /home/support/storeportal/

@@ -1,0 +1,79 @@
+8
+
+dir
+4775
+http://kalos.dairy-farm.com.sg:18080/svn/websystems/thilagar/storeportal_7e/prod/storeportal711/storeportal/src
+http://kalos.dairy-farm.com.sg:18080/svn/websystems
+
+
+
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+
+svn:special svn:externals svn:needs-lock
+
+config.properties
+file
+6323
+
+
+
+2015-04-10T02:46:39.798896Z
+8741023966a9d921057ae941a1ca8a41
+2016-09-14T03:44:36.811725Z
+6323
+tkouriya
+
+struts.xml
+file
+6669
+
+
+
+2016-11-24T07:04:56.316083Z
+d6119b2c12fa20d89423c24239108130
+2017-01-25T07:35:29.592276Z
+6669
+tkouriya
+
+hibernate.reveng.xml
+file
+
+
+
+
+2012-01-21T21:33:54.000000Z
+f94b07b3c5cef28ffd5a2f06ae1e7376
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+net
+dir
+
+gallary.properties
+file
+
+
+
+
+2014-12-17T01:56:57.717812Z
+408feccf8a3a436d647ec427d90a6098
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+hibernate.cfg.xml
+file
+6323
+
+
+
+2015-10-02T06:23:04.521623Z
+38e90dd44ccebaed279205d8f2959635
+2016-09-14T03:44:36.811725Z
+6323
+tkouriya
+

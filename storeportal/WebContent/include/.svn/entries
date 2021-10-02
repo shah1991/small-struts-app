@@ -1,0 +1,64 @@
+8
+
+dir
+4775
+http://kalos.dairy-farm.com.sg:18080/svn/websystems/thilagar/storeportal_7e/prod/storeportal711/storeportal/WebContent/include
+http://kalos.dairy-farm.com.sg:18080/svn/websystems
+
+
+
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+
+svn:special svn:externals svn:needs-lock
+
+menu.jsp
+file
+
+
+
+
+2012-09-28T20:40:38.000000Z
+4af7e7ddcaf750965b97b29f1f7af9aa
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+userheader.jsp
+file
+
+
+
+
+2012-11-28T01:47:36.000000Z
+960d529e17071a3672fe90ac55b2a265
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+header.jsp
+file
+
+
+
+
+2012-11-28T01:43:28.000000Z
+6de565fb393890234e96726be2b9844a
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+
+footer.jsp
+file
+
+
+
+
+2011-10-08T06:50:02.000000Z
+0bdbfc738c4849f342a6c93ec4ddc1e5
+2014-12-17T03:16:35.258811Z
+4775
+tkouriya
+

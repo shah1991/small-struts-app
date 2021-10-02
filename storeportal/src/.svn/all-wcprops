@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/config.properties
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/websystems/!svn/ver/6669/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/struts.xml
+END
+hibernate.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/hibernate.reveng.xml
+END
+gallary.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/websystems/!svn/ver/4775/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/gallary.properties
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/websystems/!svn/ver/6323/thilagar/storeportal_7e/prod/storeportal711/storeportal/src/hibernate.cfg.xml
+END
